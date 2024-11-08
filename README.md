@@ -37,7 +37,7 @@ For sudo privileges to install new programs or update versions, contact the mana
 
 ## Running Jobs on Kexol
 - **No Job Scheduler (yet)**: Jobs can be submitted via the command line using `parallel` and/or `screen`.
-- **Job Coordination**: Fill out the designated form to avoid overlapping with others’ tasks.
+- **Job Coordination**: Fill out the **[designated form](https://docs.google.com/spreadsheets/d/1CH23JU266zqPQu-ZciToqBL6L75N_9c6RlR6U2DE38o/edit?usp=sharing)** to avoid overlapping with others’ tasks.
 
 > Remember, all lab members use Kexol and may need to run analyses simultaneously.
 
@@ -91,25 +91,25 @@ Each user has two main folders within data_vault:
 
 ### Scratch
 
-•	Do not duplicate kexol!
-•	Temporary Storage: Use this directory for intermediate data files that can be regenerated if needed. We will periodically clear this folder to free up space.
+-	Do not duplicate kexol!
+-	Temporary Storage: Use this directory for intermediate data files that can be regenerated if needed. We will periodically clear this folder to free up space.
 
 Note: If you are no longer going to use your temporary or intermediate data in a bioinformatics step it is advisable to delete them once you are done using them. Many intermediate data are easily re-generated, so they do not need to take up storage space.
 
 ### Home Directory Guidelines `data/users/you`
 
-•	Primary Workspace: This is your main directory for running your analyses.
-•	Code and Scripts: Store all personal code and scripts here.
-•	Program Installation: You can install your own programs using [conda/mamba](https://github.com/conda-forge/miniforge) within this directory.
-•	Backup Responsibility: This directory is not backed up; please manage your own backups.
-•	Storage Limit: The maximum quota for this directory is *500 GB*.
+-	Primary Workspace: This is your main directory for running your analyses.
+-	Code and Scripts: Store all personal code and scripts here.
+-	Program Installation: You can install your own programs using [conda/mamba](https://github.com/conda-forge/miniforge) within this directory.
+-	Backup Responsibility: This directory is not backed up; please manage your own backups.
+-	Storage Limit: The maximum quota for this directory is *500 GB*.
 
 **It is suggested to each user to have good data management**
 
-•	Establish a standard directory structure (e.g., raw_data/, processed_data/, results/, scripts/) and use it consistently.
-•	Implements processes for data cleaning and deletion of temporary files, keeping storage under control.
-•	Document in detail the workflow, tools, software versions and parameters used.
-•	Use clear file and directory names with specific conventions (e.g., project_date_description).
+-	Establish a standard directory structure (e.g., raw_data/, processed_data/, results/, scripts/) and use it consistently.
+-	Implements processes for data cleaning and deletion of temporary files, keeping storage under control.
+-	Document in detail the workflow, tools, software versions and parameters used.
+-	Use clear file and directory names with specific conventions (e.g., project_date_description).
 
 
 
