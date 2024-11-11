@@ -102,7 +102,7 @@ Note: If you are no longer going to use your temporary or intermediate data in a
 -	Code and Scripts: Store all personal code and scripts here.
 -	Program Installation: You can install your own programs using [conda/mamba](https://github.com/conda-forge/miniforge) within this directory.
 -	Backup Responsibility: This directory is not backed up; please manage your own backups.
--	Storage Limit: The maximum quota for this directory is *500 GB*.
+-	Storage Limit: The maximum quota for this directory is *1 Tb*.
 
 **It is suggested to each user to have good data management**
 
