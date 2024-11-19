@@ -5,7 +5,7 @@ This document serves as a centralized list of programs that will be available fo
 Current Programs
 
 - [x] [bcftools](https://github.com/samtools/bcftools)
-- [ ] 
+- [ ] [gfrotran](https://fortran-lang.org/en/learn/os_setup/install_gfortran/)
 
 
 **How to Add a Program**
