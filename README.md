@@ -128,4 +128,5 @@ Failure to comply with this clause will result in corresponding observations and
 - Santiago Gerardo Medina Muñoz [santiago123](https://github.com/santiago1234)
 
 - Sofía Ivonne Vieyra Sánchez [VieyraS](https://github.com/VieyraS)
+- Daniela Orozco Pérez [dorozco1504](https://github.com/dorozco1504)
 
